@@ -16,6 +16,10 @@ Help customers estimate their order's delivery time and expected arrival date us
 ## Technologies
 Python, Pandas, NumPy, Scikit-learn, Streamlit, Joblib.
 
+## App link
+
+https://olist-delivery-predictor.streamlit.app/
+
 ## Dataset
 Brazilian E-Commerce Public Dataset by Olist (Kaggle).
 
